@@ -1,4 +1,4 @@
-package pinchuk.sfg.common.events;
+package pinchuk.sfg.brewery.model.events;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

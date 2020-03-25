@@ -7,7 +7,7 @@ import org.springframework.stereotype.Component;
 import pinchuk.sfg.beer.inventory.service.config.JmsConfig;
 import pinchuk.sfg.beer.inventory.service.domain.BeerInventory;
 import pinchuk.sfg.beer.inventory.service.repositories.BeerInventoryRepository;
-import pinchuk.sfg.common.events.NewInventoryEvent;
+import pinchuk.sfg.brewery.model.events.NewInventoryEvent;
 
 /**
  * @author Pinchuk Yevhen

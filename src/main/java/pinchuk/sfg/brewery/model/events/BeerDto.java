@@ -1,4 +1,4 @@
-package pinchuk.sfg.common.events;
+package pinchuk.sfg.brewery.model.events;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
 import lombok.AllArgsConstructor;
