@@ -1,7 +1,7 @@
 package pinchuk.sfg.beer.inventory.service.web.mappers;
 
 import pinchuk.sfg.beer.inventory.service.domain.BeerInventory;
-import pinchuk.sfg.beer.inventory.service.web.model.BeerInventoryDto;
+import pinchuk.sfg.brewery.model.BeerInventoryDto;
 import org.mapstruct.Mapper;
 
 /**

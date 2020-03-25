@@ -1,4 +1,4 @@
-package pinchuk.sfg.beer.inventory.service.web.model;
+package pinchuk.sfg.brewery.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

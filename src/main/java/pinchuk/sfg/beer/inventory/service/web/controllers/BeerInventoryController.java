@@ -2,7 +2,7 @@ package pinchuk.sfg.beer.inventory.service.web.controllers;
 
 import pinchuk.sfg.beer.inventory.service.repositories.BeerInventoryRepository;
 import pinchuk.sfg.beer.inventory.service.web.mappers.BeerInventoryMapper;
-import pinchuk.sfg.beer.inventory.service.web.model.BeerInventoryDto;
+import pinchuk.sfg.brewery.model.BeerInventoryDto;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.bind.annotation.GetMapping;
